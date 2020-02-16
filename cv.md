@@ -4,3 +4,8 @@ Kyryliuk Dmytro
 Phone number: +380997502566
 E-mail: KyryliukDmytroV@gmail.com 
 Telegram: +380997502566
+##Summary:
+Ability to make decisions, responsibility, concentration, communication, punctuality, integrity, tolerant, considerate fast learning. Wish to learn new 
+scope of work and always update my knowladge.
+##Experiens
+Have experiens in rewriting.
