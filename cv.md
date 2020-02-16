@@ -9,3 +9,5 @@ Ability to make decisions, responsibility, concentration, communication, punctua
 scope of work and always update my knowladge.
 ##Experiens
 Have experiens in rewriting.
+##Education
+In summer 2017 graduated from the “Vinnitsia State Pedagogical University named after Mykhaylo Kotsyubyns'kyy”, philology. Language and Literature (German). I have gotten a bachelor's degree, passed the courses on www.w3schools.com (HTML and CSS), visited offline courses at IT academy "STEP" (network administration).
